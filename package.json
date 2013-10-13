@@ -1,0 +1,11 @@
+{
+  "name": "file-server-with-api",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "when": "~2.5",
+    "express": "~3.4"
+  }
+}
